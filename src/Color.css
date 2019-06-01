@@ -1,0 +1,9 @@
+.Color-Box{
+    display: inline-flex;    
+    height: 10em;
+    width: 10em;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
